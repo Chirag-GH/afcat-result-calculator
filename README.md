@@ -1,6 +1,11 @@
 # AFCAT Result Calculator
 
-A Python-based tool that extracts question-level data from an AFCAT result PDF and calculates the **attempted, correct, incorrect, unanswered, and final score** automatically.
+A Python-based tool that extracts question-level data from an AFCAT result PDF and calculates following parameter automatically:
+1. **Final Score**
+2. **Correct**
+3. **Attempted**
+4. **Incorrect**
+5. **Unanswered**
 
 ## Use the Calculator
 
