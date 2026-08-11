@@ -1,6 +1,6 @@
 # AFCAT 2026 Result Calculator
 
-[Open AFCAT Result Calculator](https://colab.research.google.com/github/Chirag-GH/Afcat_Result_Calculator/blob/main/afcat_score_calc.ipynb)
+[Open AFCAT Result Calculator](https://colab.research.google.com/github/Chirag-GH/afcat-result-calculator/blob/main/afcat_result_calculator.ipynb)
 
 A Python-based tool that extracts question-level data from an AFCAT result PDF and automatically calculates the following:
 
