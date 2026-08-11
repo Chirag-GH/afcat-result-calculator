@@ -1,4 +1,4 @@
-# AFCAT Result Calculator
+# AFCAT 2026 Result Calculator
 
 [Open AFCAT Result Calculator](https://colab.research.google.com/github/Chirag-GH/Afcat_Result_Calculator/blob/main/afcat_score_calc.ipynb)
 
